@@ -1,0 +1,20 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "The Witcher 3: Wild Hunt",
+            "description": "An open-world RPG set in a fantasy universe full of meaningful choices and impactful consequences.",
+            "price": 29.99,
+            "platforms": ["PC", "PlayStation", "Xbox"],
+            "image": "https://example.com/images/witcher3.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cyberpunk 2077",
+            "description": "An open-world action-adventure story set in Night City, a megalopolis obsessed with power, glamour, and body modification.",
+            "price": 49.99,
+            "platforms": ["PC", "PlayStation", "Xbox"],
+            "image": "https://example.com/images/cyberpunk2077.jpg"
+        }
+    ]
+}
